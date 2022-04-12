@@ -1,5 +1,5 @@
 # REPOSITÓRIO DE DOCUMENTOS - BOOTCAMP CARREFOUR
-Repositório criado para armazenar documentos para os Desafios de projeto e anotações de evolução do Bootcamp Carrefour
+Repositório criado para armazenar documentos para os Desafios de projeto e anotações sobre a conclusão dos treinamentos do Bootcamp Carrefour 2022
 
 
 ## Links úteis

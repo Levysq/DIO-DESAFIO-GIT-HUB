@@ -1,4 +1,6 @@
-Treinamentos realizados (BootCamp Carrefour
+Treinamentos realizados (BootCamp Carrefour)
 Até 12/04
+Pensamento Computacional
 Projetos Ágeis com SCRUM
-Lógica de programação
+Lógica de programação Essencial
+Introdução ao Git e GitHub
